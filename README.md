@@ -1,7 +1,7 @@
 data_hacking
 ============
 
-### Welcome to the Click Security Data Hacking Project
+### Welcome to the Data Hacking Project
 "Hacking in the sense of deconstructing an idea, hardware, anything and getting it to do something it wasn’t intended or to better understand how something works." _(BSides CFP)_ 
 
 So hacking here means we want to quickly deconstruct data, understand what we've got and how to best utilize it for the problem at hand. 
@@ -16,63 +16,65 @@ The primary motivation for these exercises is to explore the nexus of IPython, P
 
 ### Exercises:
 - Detecting Algorithmically Generated Domains (BSidesDFW 2013)
-    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/ClickSecurity/data_hacking/master/dga_detection/DGA_Domain_Detection.ipynb)
-    - [GitHub Project](https://github.com/ClickSecurity/data_hacking/tree/master/dga_detection)
+    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/SuperCowPowers/data_hacking/master/dga_detection/DGA_Domain_Detection.ipynb)
+    - [GitHub Project](https://github.com/SuperCowPowers/data_hacking/tree/master/dga_detection)
 
 - Hierarchical Clustering of Syslogs (BSidesDFW 2013)
-    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/ClickSecurity/data_hacking/master/fun_with_syslog/Fun_Syslog.ipynb)
-    - [GitHub Project](https://github.com/ClickSecurity/data_hacking/tree/master/fun_with_syslog)
+    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/SuperCowPowers/data_hacking/master/fun_with_syslog/Fun_Syslog.ipynb)
+    - [GitHub Project](https://github.com/SuperCowPowers/data_hacking/tree/master/fun_with_syslog)
     
 - Exploration of data from Malware Domain List (BSidesDFW 2013)
-    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/ClickSecurity/data_hacking/master/mdl_exploration/MDL_Data_Exploration.ipynb)
+    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/SuperCowPowers/data_hacking/master/mdl_exploration/MDL_Data_Exploration.ipynb)
     - [Malware Domain List](http://www.malwaredomainlist.com)
-    - [GitHub Project](https://github.com/ClickSecurity/data_hacking/tree/master/mdl_exploration)
+    - [GitHub Project](https://github.com/SuperCowPowers/data_hacking/tree/master/mdl_exploration)
     
 - SQL Injection (Shmoocon 2014)
-    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/ClickSecurity/data_hacking/master/sql_injection/sql_injection.ipynb)
-    - [GitHub Project](https://github.com/ClickSecurity/data_hacking/tree/master/sql_injection)
+    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/SuperCowPowers/data_hacking/master/sql_injection/sql_injection.ipynb)
+    - [GitHub Project](https://github.com/SuperCowPowers/data_hacking/tree/master/sql_injection)
     
 - Browser Agent Fingerprinting (Shmoocon 2014)
-    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/ClickSecurity/data_hacking/master/browser_fingerprinting/browser_fingerprinting.ipynb)
-    - [GitHub Project](https://github.com/ClickSecurity/data_hacking/tree/master/browser_fingerprinting)
+    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/SuperCowPowers/data_hacking/master/browser_fingerprinting/browser_fingerprinting.ipynb)
+    - [GitHub Project](https://github.com/SuperCowPowers/data_hacking/tree/master/browser_fingerprinting)
     
 - PE File Classification (BSides 2014)
-    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/ClickSecurity/data_hacking/master/pefile_classification/pefile_classification.ipynb)
-    - [GitHub Project](https://github.com/ClickSecurity/data_hacking/tree/master/pefile_classification)
+    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/SuperCowPowers/data_hacking/master/pefile_classification/pefile_classification.ipynb)
+    - [GitHub Project](https://github.com/SuperCowPowers/data_hacking/tree/master/pefile_classification)
 
 - PCAP Exploration (BSidesATX 2014)
-    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/ClickSecurity/data_hacking/master/contagio_traffic_analysis/contagio_traffic_analysis.ipynb)
-    - [GitHub Project](https://github.com/ClickSecurity/data_hacking/tree/master/contagio_traffic_analysis)
+    - [Notebook Viewer](http://nbviewer.ipython.org/url/raw.github.com/SuperCowPowers/data_hacking/master/contagio_traffic_analysis/contagio_traffic_analysis.ipynb)
+    - [GitHub Project](https://github.com/SuperCowPowers/data_hacking/tree/master/contagio_traffic_analysis)
 
 - Drive-By PCAP Analysis (ISSW 2014)
-    - [Notebook Viewer](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/driveby_pcap_analysis/driveby_pcap_analysis.ipynb)
-    - [GitHub Project](https://github.com/ClickSecurity/data_hacking/tree/master/driveby_pcap_analysis)
+    - [Notebook Viewer](http://nbviewer.ipython.org/github/SuperCowPowers/data_hacking/blob/master/driveby_pcap_analysis/driveby_pcap_analysis.ipynb)
+    - [GitHub Project](https://github.com/SuperCowPowers/data_hacking/tree/master/driveby_pcap_analysis)
 
 - Mach-O Classification (SANS DFIR 2014)
-    - [Notebook Viewer](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/macho_classification/macho_classification.ipynb)
-    - [GitHub Project](https://github.com/ClickSecurity/data_hacking/tree/master/macho_classification)
+    - [Notebook Viewer](http://nbviewer.ipython.org/github/SuperCowPowers/data_hacking/blob/master/macho_classification/macho_classification.ipynb)
+    - [GitHub Project](https://github.com/SuperCowPowers/data_hacking/tree/master/macho_classification)
 
 - Yara Clustering (BSides Las Vegas 2014)
-    - [Notebook Viewer (Mach-O)](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/yara_clustering/Mach-O%20Clustering.ipynb)
-    - [Notebook Viewer (PE)](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/yara_clustering/PEFile%20Clustering.ipynb)
-    - [GitHub Project](https://github.com/ClickSecurity/data_hacking/tree/master/yara_clustering)
+    - [Notebook Viewer (Mach-O)](http://nbviewer.ipython.org/github/SuperCowPowers/data_hacking/blob/master/yara_clustering/Mach-O%20Clustering.ipynb)
+    - [Notebook Viewer (PE)](http://nbviewer.ipython.org/github/SuperCowPowers/data_hacking/blob/master/yara_clustering/PEFile%20Clustering.ipynb)
+    - [GitHub Project](https://github.com/SuperCowPowers/data_hacking/tree/master/yara_clustering)
 
 - SWF Classification (ShmooCon 2015)
-    - [Notebook Viewer (SWF)](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/swf_classification/swf_classification.ipynb)
-    - [GitHub Project](https://github.com/ClickSecurity/data_hacking/tree/master/swf_classification)
+    - [Notebook Viewer (SWF)](http://nbviewer.ipython.org/github/SuperCowPowers/data_hacking/blob/master/swf_classification/swf_classification.ipynb)
+    - [GitHub Project](https://github.com/SuperCowPowers/data_hacking/tree/master/swf_classification)
 
 - Java Class File Classification (ShmooCon 2015)
-    - [Notebook Viewer (Java)](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/java_classification/java_classification.ipynb)
-    - [GitHub Project](https://github.com/ClickSecurity/data_hacking/tree/master/java_classification)
+    - [Notebook Viewer (Java)](http://nbviewer.ipython.org/github/SuperCowPowers/data_hacking/blob/master/java_classification/java_classification.ipynb)
+    - [GitHub Project](https://github.com/SuperCowPowers/data_hacking/tree/master/java_classification)
 
-#### Friendly Notebooks
+#### Related Notebooks
+- PE File Similarity Graph using Workbench
+    - [Notebook Viewer](https://nbviewer.jupyter.org/github/SuperCowPowers/workbench/blob/master/workbench/notebooks/PCAP_DriveBy.ipynb)
+
 - Windows Executable Clustering by Image Similarity
     - [Notebook Viewer](http://nbviewer.ipython.org/urls/raw.githubusercontent.com/sooshie/data_exploration/master/zeus_cluster/Image%20Based%20Clustering.ipynb)
 
-- PE File Similarity Graph using Workbench
-    - [Notebook Viewer](http://nbviewer.ipython.org/github/SuperCowPowers/workbench/blob/master/notebooks/PE_SimGraph.ipynb)
 
-#####Setup:
+
+#### Setup:
 
   * Required packages:
     * Brew/apt-get
@@ -103,6 +105,3 @@ Most of the notebooks will have relative paths to some resources, data files or 
 $ cd data_hacking/fun_with_syslog
 $ ipython (as aliased above)
 </pre>
-
-
-[ ![Click Logo](http://raw.github.com/ClickSecurity/data_hacking/gh-pages/images/clicklogo_sm.png)](http://www.clicksecurity.com "Click Security")
